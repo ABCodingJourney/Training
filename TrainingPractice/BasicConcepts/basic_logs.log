@@ -1,0 +1,13 @@
+31-01-2024 00:08:41 INFO Executing decorator function
+31-01-2024 00:08:41 INFO Dunder examples for __add__
+31-01-2024 00:08:41 INFO Dunder methods example for __add__, __sub__, __mul__, __trudiv__, __str__, __repr__
+31-01-2024 00:09:58 INFO 32
+31-01-2024 00:09:58 INFO Executing decorator function
+31-01-2024 00:09:58 INFO Done
+31-01-2024 00:09:58 INFO Dunder examples for __add__
+31-01-2024 00:09:58 INFO 3000
+31-01-2024 00:09:58 INFO Dunder methods example for __add__, __sub__, __mul__, __trudiv__, __str__, __repr__
+31-01-2024 00:09:58 INFO 7.00 + 7.00i
+31-01-2024 00:09:58 INFO -1.00-3.00i
+31-01-2024 00:09:58 INFO 2.00 + 23.00i
+31-01-2024 00:09:58 INFO 0.54-0.17i
