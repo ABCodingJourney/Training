@@ -1,0 +1,29 @@
+05-01-2024 12:51:33 ERROR Error occurred: . Retrying...
+Traceback (most recent call last):
+  File "C:\Users\ananya.bhat\PythonPractice\DatabaseConnects\retry2.py", line 19, in wrapper
+    raise Exception
+Exception
+05-01-2024 12:51:35 ERROR Error occurred: . Retrying...
+Traceback (most recent call last):
+  File "C:\Users\ananya.bhat\PythonPractice\DatabaseConnects\retry2.py", line 19, in wrapper
+    raise Exception
+Exception
+05-01-2024 12:51:37 ERROR Error occurred: . Retrying...
+Traceback (most recent call last):
+  File "C:\Users\ananya.bhat\PythonPractice\DatabaseConnects\retry2.py", line 19, in wrapper
+    raise Exception
+Exception
+05-01-2024 12:52:44 ERROR Error occurred: . Retrying...
+05-01-2024 12:52:46 ERROR Error occurred: . Retrying...
+05-01-2024 12:52:48 ERROR Error occurred: . Retrying...
+30-01-2024 12:08:55 INFO Create MYSQL connection
+30-01-2024 12:08:55 INFO Connection Successful
+30-01-2024 12:08:55 INFO [(66, 'ABC', 'PUNE')]
+30-01-2024 12:08:55 INFO Creating MYSQL connection with SQL Alchemy
+30-01-2024 12:08:55 INFO Connection Successful
+30-01-2024 12:08:55 INFO    CUSTID CNAME  CLOC
+0      66   ABC  PUNE
+1      77   PQR   HYD
+30-01-2024 12:08:55 INFO Retrying Connection
+30-01-2024 12:09:01 INFO Retrying Connection using tenacity
+30-01-2024 12:09:01 INFO {'start_time': 179895.171, 'attempt_number': 1, 'idle_for': 0}
