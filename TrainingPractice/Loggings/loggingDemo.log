@@ -1,0 +1,11 @@
+2024-01-04 15:00:24 DEBUG This is a debug message
+2024-01-04 15:00:24 WARNING This is a warning message
+04-01-2024 15:12:00 INFO Created employee <bound method Employee.fullname of <__main__.Employee object at 0x000001E17C547350>>
+04-01-2024 15:12:00 INFO Created employee <bound method Employee.fullname of <__main__.Employee object at 0x000001E17C547CB0>>
+04-01-2024 15:14:11 INFO Created employee ananya bhat
+04-01-2024 15:14:11 INFO Created employee ananya b
+04-01-2024 15:14:52 INFO Created employee ananya bhat
+04-01-2024 15:14:52 INFO Created employee ananya b
+04-01-2024 15:16:16 INFO Created employee ananya bhat
+04-01-2024 15:16:16 INFO Created employee ananya b
+04-01-2024 15:16:16 INFO Employee's firstname is ananya and last name is bhat
